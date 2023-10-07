@@ -1,5 +1,4 @@
 # Sentiment analysis using BERT
 
-The aim is to predict whether a film review is positive or negative.
 
- `a.code`
+ `sentiment_analysis.ipynb` Trains BERT to predict whether a film review is positive or negative.
