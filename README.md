@@ -1,4 +1,4 @@
-# Natural Language Processing with Large Language Models
+# Natural Language Processing with LLMs
 
 The Python notebooks in this library are the following:
 
